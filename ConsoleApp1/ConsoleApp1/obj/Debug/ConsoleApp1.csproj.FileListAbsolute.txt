@@ -1,0 +1,7 @@
+A:\C Sharp C# Language\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+A:\C Sharp C# Language\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+A:\C Sharp C# Language\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+A:\C Sharp C# Language\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+A:\C Sharp C# Language\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+A:\C Sharp C# Language\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+A:\C Sharp C# Language\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
